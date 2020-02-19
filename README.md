@@ -24,9 +24,10 @@ pom <start_time> <break_time>
 * associate a task name with timelog
 * convert to async await implementation since threads are hard
 * modify settings with config file
-* installer to add binary to path
+* add charts 
 
 # credits:
 
 https://freesound.org/people/Koyber/sounds/160483/ (CC 0)
+
 https://freesound.org/people/rhodesmas/sounds/320655/ (CC BY 3.0) 

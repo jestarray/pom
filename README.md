@@ -1,4 +1,4 @@
-# pom
+# pomy
 
 a dumb simple crossplatform CLI pomodoro timer that doesn't eat your ram and melt your cpu
 
@@ -10,10 +10,9 @@ a dumb simple crossplatform CLI pomodoro timer that doesn't eat your ram and mel
 # install
 
 ```
-cargo build --release
+cargo install pomy 
 ```
-then add the binary(/target/release/pom.exe) to your PATH
-
+rust cargo folder should already be in your PATH.
 # usage
 
 ```

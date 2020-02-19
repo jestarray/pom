@@ -1,5 +1,5 @@
 [package]
-name = "pom"
+name = "pomy"
 version = "0.1.1"
 authors = ["jest"]
 edition = "2018"
@@ -16,4 +16,4 @@ structopt = "0.3.9"
 chrono = "0.4"
 dirs = "2.0.2"
 ctrlc = "3.1.4"
-rodio = "0.10.0"
+rodio = {version = "0.10.0", features=["vorbis"] }

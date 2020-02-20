@@ -16,7 +16,7 @@ rust cargo folder should already be in your PATH.
 # usage
 
 ```
-pom <start_time> <break_time>
+pomy <start_time> <break_time>
 ```
 # todo:
 
